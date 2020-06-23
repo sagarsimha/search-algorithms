@@ -7,5 +7,5 @@
   c. Simulated Annealing on the TSP.
   d. Tabu Search on the TSP.
   e. Iterated Local Search (ILS) on the TSP.
-3. Genetic Algorithm
-4. Particle Swarm Optimization
+3. Genetic Algorithm.
+4. Particle Swarm Optimization.
